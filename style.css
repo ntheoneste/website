@@ -1,0 +1,67 @@
+*
+{
+    margin: 5px;
+    padding:0;
+}
+header
+{
+display: float;
+background:greenyellow;
+padding:25px;
+}
+ul
+{
+    text-decoration: blue
+}
+.main-nav 
+{
+    float: right;
+    list-style:none;
+    margin-top:50px;
+    padding:15px;
+}
+li a{
+    text-decoration: none;
+}
+.main-nav li
+{
+display: inline-block;
+}
+.main-nav li
+{
+   text-decoration:none;
+    padding: 5px 20;
+    font-size:25px
+}
+ .logo img
+{
+width:250px;
+height:150;
+}
+.image{
+    display:grid;
+    margin-left:5px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+footer{
+    background:greenyellow;
+
+}
+#footer {
+    margin-top: 20PX;
+    text-align:center;
+    width: 100%;
+    padding: 30PX;
+}
+form{
+ margin:10px;
+ padding:auto;
+}
+inpu{
+ width:25px;
+ height:20px;   
+}
+
+
+
